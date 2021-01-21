@@ -11,6 +11,7 @@ Step 2: Explore and Assess the Data
 Step 3: Define the Data Model
 Step 4: Run ETL to Model the Data
 Step 5: Complete Project Write Up
+
 In [1]:
 # Imports
 import pandas as pd
